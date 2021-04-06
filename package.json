@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "async": "^3.2.0",
-    "fast-glob": "^3.2.4",
+    "fast-glob": "^3.2.5",
     "get-stdin": "^8.0.0",
     "json-colorizer": "^2.2.2",
     "pegjs-backtrace": "^0.2.0",
